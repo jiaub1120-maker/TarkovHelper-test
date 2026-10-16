@@ -2,8 +2,7 @@
 - '패치노트' 창과 업데이트 직후 안내 창이 이 changelog.md 내용(이미지 포함)을 그대로 보여 줍니다.
 - 인터넷에 연결되지 않으면 마지막으로 받아 둔 내용을 보여 줍니다.
 - 이미지 주소에 한글이나 띄어쓰기가 있어도 표시되도록 했습니다.
-![1015 패치노트](https://github.com/jiaub1120-maker/TarkovHelper-test/blob/main/%EC%9B%A8%EC%A7%80%20%EC%B4%88%EC%83%81%ED%99%94.jpg)
-
+![패치노트](https://raw.githubusercontent.com/jiaub1120-maker/TarkovHelper-test/main/%EC%9B%A8%EC%A7%80%20%EC%B4%88%EC%83%81%ED%99%94.jpg)
 ## v1.2.8-test
 
 * 패치노트 창이 한 페이지에 한 버전씩 보여 줍니다. '◀ 이전' / '다음 ▶' 버튼이나 좌우 방향키로 넘겨 볼 수 있습니다.
